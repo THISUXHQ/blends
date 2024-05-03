@@ -34,3 +34,6 @@ Functions that blend base and blend color values:
 - Button to download blended image
 
 Blend modes allow creative image processing in the browser.
+
+### Credits
+Inspired by [@spiralstairs' tweet](https://x.com/spiralstairs/status/1630744904547827713) about blend modes in Figma, I got curious and implemented different blend modes from scratch to visualize how they work.
