@@ -34,13 +34,3 @@ Functions that blend base and blend color values:
 - Button to download blended image
 
 Blend modes allow creative image processing in the browser.
-```
-
-This version:
-
-- Uses shorter descriptions and bullet points
-- Groups related information together
-- Removes redundant explanations
-- Focuses on the key components and functionality
-
-The goal is to provide a high-level overview of the blend modes functionality in a more concise and scannable format.
