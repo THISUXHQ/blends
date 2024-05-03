@@ -1,4 +1,4 @@
-```markdown
+
 # Documentation for Blend Modes in Svelte Application
 
 This Svelte application provides a user interface for blending two images using various blend modes. The core functionality is implemented in TypeScript within a Svelte component. Below is the documentation for the key parts of the script.
@@ -52,4 +52,3 @@ This helper function triggers the blending process using a specified blend mode 
 The user interface consists of two image elements for displaying the base and blend images and a series of buttons for each blend mode. Clicking a button applies the corresponding blend mode to the images and displays the result. There is also a button to download the blended image.
 
 This documentation provides an overview of the blend modes functionality implemented in the Svelte application. Each blend mode offers a unique way to combine images, allowing for creative image processing directly in the browser.
-```
